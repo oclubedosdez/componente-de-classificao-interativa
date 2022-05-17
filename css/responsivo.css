@@ -1,0 +1,81 @@
+@media (max-width: 1200px){
+    
+      .container {
+          padding-top: 10px;
+          width: 300px;
+          height: 350px;
+          position: absolute;
+          top: 20%;
+          left: 10%;
+          border-radius: 30px;
+          background-color: rgb(33, 40, 50);
+      }
+    
+      .estrela {
+          position: relative;
+          left: 60%;
+          transform: translate(-80%, 70%);
+      }
+    
+      .caixa {
+          margin-top: 20px;
+          background-color: rgb(46, 52, 59);
+          width: 40px;
+          height: 40px;
+          position:absolute;
+          transform: translate(100%, 10%);
+          border-radius: 50%;
+      }
+    
+      .caixa2 {
+          color: white;
+          position: absolute;
+          transform: translate(14%, 100%);
+      }
+    
+      .caixa2 h1 {
+          position: absolute;
+          font: 15pt Arial;
+          font-weight: bold;
+          top: -9%;
+      }
+    
+      p {
+          position: relative;
+          padding-top: 12px;
+          transform: translate(-1%);
+      }
+    
+      .caixa3 {
+          position: absolute;
+          transform: translate(1%, 360%)
+      }
+    
+      .caixa3 .botao {
+          width: 34px;
+          height: 34px;
+          border-radius: 50%;
+          cursor: pointer;
+          background-color: rgb(38, 47, 56);
+          cursor: pointer;
+          color: rgb(120, 129, 138);
+      }
+    
+    
+    .avancar {
+        position: absolute;
+        transform: translate(12%, 650%);
+        width: 240px;
+        height: 40px;
+        border-radius: 30px;
+        background-color: rgb(252, 118, 19);
+        cursor: pointer;
+        color: rgb(255, 255, 255);
+    }
+    
+    .avancar span{
+        font: 13pt Arial;
+        font-weight: bold;
+    }
+    
+}

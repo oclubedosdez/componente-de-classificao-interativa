@@ -1,0 +1,20 @@
+.caixa3 .botao:hover {
+   background: rgb(124, 136, 152);
+   color: white;
+}
+
+
+.avancar:hover{
+    background: white;
+    color: rgb(251, 119, 21);
+}
+
+.caixa3 .selecionado {
+    background: rgb(254, 120, 21);
+    color: white;
+}
+
+.caixa3 .selecionado:hover {
+    background: rgb(254, 120, 21);
+    color: white;
+}

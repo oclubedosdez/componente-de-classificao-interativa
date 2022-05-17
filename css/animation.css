@@ -1,0 +1,8 @@
+@keyframes slide {
+    0% {
+        background: rgb(251, 119, 21);
+    }
+    to {
+        background: rgb(251, 119, 21);
+    }
+}

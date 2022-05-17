@@ -1,0 +1,21 @@
+@media (max-width: 1200px) {
+    .container {
+        left: 4.5%;
+        width: 340px;
+    }
+    .container img {
+        left: 22%;
+    }
+    .container button {
+        left: 20%;
+    }
+    .container h1 {
+        font-size: 25px;
+    }
+    .container p {
+        font-size: 14px;
+        left: 4%;
+        top: 65%;
+        font-family: Arial;
+    }
+}
